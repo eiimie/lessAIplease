@@ -1,4 +1,4 @@
-chrome.webNavigation.onBeforeNavigator.addListen((details) => {
+chrome.webNavigation.onBeforeNavigate.addListen((details) => {
     if (details.url.includes("www.google.com/search")) {
         const newUrl = details.url + "-ai";
         chrome.tabs.update(details.tabId, { url: newUrl });
