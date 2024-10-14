@@ -1,0 +1,1 @@
+console.log("Less AI Please! is active.");
