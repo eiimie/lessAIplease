@@ -1,5 +1,28 @@
 <html>
+    <title>Less AI Please!</title>
+
+    <style>
+        body { 
+            font-family: Arial, sans-serif;
+            padding: 10px;
+        }
+        label { 
+            display: flex;
+            align-items: center;
+            margin-top: 10px;
+        }
+        input[type="checkbox"] {
+            margin-left: 10px;
+        }
+    </style>
+
     <body>
         <h1>Less AI please!</h1>
+        <label>
+            <span>Enable AI filter</span>
+            <input type="checkbox" id="toggleFilter">
+        </label>
+
+        <script src="popup.js"></script>
     </body>
 </html>
