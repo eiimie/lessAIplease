@@ -3,7 +3,9 @@
     "name": "Less AI Please!",
     "version": "1.0",
     "permissions": [
-        "activeTav"
+        "activeTab",
+        "tabs",
+        "webNavigation"
     ], 
     "action": { 
         "default_popup": "lessAIpleaseHome.html", 
