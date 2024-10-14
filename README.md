@@ -1,6 +1,6 @@
 <h1>Less AI, Please!</h1>
 
-Less AI Please! is a simple web extension that automatically adds the operator "-ai" to every Google search made with the extension active. This operate reduces the amount of AI generated results that show up. Alternatively, there is a secondary setting that allows you to filter out results that were made <i>past</i> 2022: in other words, you'll only see results from <i>before</i> the year 2022. This will remove nearly every single piece of AI content out there, but it may not be useful for everybody. 
+<i>Less AI Please!</i> is a simple web extension that automatically adds the operator "-ai" to every Google search made with the extension active. This operator reduces the amount of AI generated results that show up. Alternatively, there is a secondary setting that allows you to filter out results that were made <i>past</i> 2022: in other words, you'll only see results from <i>before</i> the year 2022. This will remove nearly every single piece of AI content out there, but it may not be useful for everybody. 
 
 I originally made this because, as a student, sometimes I just want to filter out AI results because I need accurate information. AI is not always so accurate, or can even spread misinformation. 
 
