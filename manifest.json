@@ -1,0 +1,21 @@
+{ 
+    "manifest_version": 3, 
+    "name": "Less AI Please!",
+    "version": "1.0",
+    "permissions": [
+        "activeTav"
+    ], 
+    "action": { 
+        "default_popup": "lessAIpleaseHome.html", 
+        "default_icon": "lessAIpleaseIcon"
+    },
+    "background": {
+        "service_worker": "background.js"
+    },
+    "content_scripts": [
+        {
+            "matches": ["*://www.google.com/search*"],
+            "js": ["content.js"]
+        }
+    ]
+}
