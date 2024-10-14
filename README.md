@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/letnmps.png" />
 
 <h2>About <i>LAIP!</i></h2>
-<i>Less AI Please!</i> is a simple web extension that automatically adds operators to every Google search made with the extension active. These operators reduce the amount of AI generated results that show up (roughly around 75%). Alternatively, there is a secondary (optional) setting that allows you to filter out results that were made <i>past</i> 2022: in other words, you'll only see results from <i>before</i> the year 2022. This will remove nearly every single piece of AI content out there, but it may not be useful for everybody.<br>
+<i>Less AI Please!</i> is a simple web extension that automatically adds operators to every Google search made with the extension active. These operators reduce the amount of AI generated results that show up (up to around 75%). Alternatively, there is a secondary (optional) setting that allows you to filter out results that were made <i>past</i> 2022: in other words, you'll only see results from <i>before</i> the year 2022. This will remove nearly every single piece of AI content out there, but it may not be useful for everybody.<br>
 
 <img src="https://i.imgur.com/YIzpFPn.png" />
 <img src="https://i.imgur.com/Jd8UNTb.png" />
