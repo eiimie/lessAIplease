@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/letnmps.png" />
 
 <h2>About <i>LAIP!</i></h2>
-<i>Less AI Please!</i> is a simple web extension that automatically adds operators to every Google search made with the extension active. These operators reduce the amount of AI generated results that show up (up to around 75%). Alternatively, there is a secondary (optional) setting that allows you to filter out results that were made <i>past</i> 2022: in other words, you'll only see results from <i>before</i> the year 2022. This will remove nearly every single piece of AI content out there, but it may not be useful for everybody.<br>
+<i>Less AI Please!</i> is a simple web extension that automatically adds operators to every Google search made with the extension active. These operators reduce the amount of AI generated results that show up (up to around 75%). Alternatively, there is a secondary (optional) setting that allows you to filter out results that were made <i>past</i> 2022: in other words, you'll only see results from <i>before</i> the year 2022. This will remove nearly every single piece of AI content out there, but it may not be useful for everybody. (This feature is not yet available.)<br>
 
 <img src="https://i.imgur.com/YIzpFPn.png" />
 <img src="https://i.imgur.com/Jd8UNTb.png" />
@@ -18,6 +18,8 @@ This extension is also made for...
 - <b>Anyone</b> who simply doesn't want AI results for any reason! 
 
 <h2>Disclaimers</h2>
+Please know that this is the very first version of LAIP! Everything is a bit rough at the moment. It's basically just a proof-of-concept ❤️🙏
+
 Please note that... <br><br>
 This extension cannot get rid of <i>every</i> AI result, because some AI results are simply not tagged as AI. <br>
 This extension also only applies to Google searches. Searching on Pinterest, for example, could still result in AI results. <br>
