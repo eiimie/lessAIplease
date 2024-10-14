@@ -11,9 +11,9 @@ This extension is made for...
 - <b>Anyone else</b> who simply doesn't want AI results for any reason! 
 
 Please note that...
-This extension cannot get rid of <i>every</i> AI result, because some AI results are simply not tagged as AI. 
-This extension also only applies to Google searches. Searching on Pinterest, for example, could still result in AI results. 
+- This extension cannot get rid of <i>every</i> AI result, because some AI results are simply not tagged as AI. 
+- This extension also only applies to Google searches. Searching on Pinterest, for example, could still result in AI results. 
 
-You can turn either setting (<i>"-ai"</i> operator or <i>"after:2022"</i> operator) off at any time in the extension's popup. This is useful for anybody who might not always want/need to filter out AI results, or who want to toggle betwen different search strategies. 
+You can turn either setting (<i>"-ai"</i> operator or <i>"after:2022"</i> operator) off at any time in the extension's popup. This is useful for anybody who might not always want/need to filter out AI results, or who want to toggle between different search strategies. 
 
 Thank you for reading this! I hope you enjoy this extension. If you need to contact me for any reason, my information is on my profile. Happy surfing! 
