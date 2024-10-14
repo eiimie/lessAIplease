@@ -34,7 +34,7 @@ This extension uses <i>operators</i> to filter out AI results. When you make a s
 You can turn either setting (general AI removal, or post-2022 removal) off at any time in the extension's popup. This is useful for anybody who might not always want/need to filter out AI results, or who want to toggle between different search strategies. 
 
 <h2>Installation</h2>
-This extension is not finished and therefore is not currently available to install via Chrome Web Store. At the moment, you can only manually install it. However, manually installing extensions are totally easy-peasy! To install _LAIP!_, all you have to do is... <br><br>
+This extension is not finished and therefore is not currently available to install via Chrome Web Store. At the moment, you can only manually install it. However, manually installing extensions are totally easy-peasy! To install <i>LAIP!</i>, all you have to do is... <br><br>
 1. <b>Download</b> a ZIP of this repository and <b>extract it</b> into a folder in your documents. It doesn't really matter precisely where - as long as you can access it! 
 
 <br><br>
@@ -54,6 +54,6 @@ This extension is not finished and therefore is not currently available to insta
 
 4. Click on <b>Load Unpacked</b> in the top left and select the folder that you extracted the ZIP file to.
 
-5. It's now installed! Please note that Chrome may warn you it's unsafe, but that's just because it's been manually installed. This extension is completely safe to use, and your computer will not explode into a Big Fiery Ball Visible From Space.
+5. It's now installed! Please note that Chrome <i>may</i> warn you that it's "unsafe", but that's just because it's been manually installed and Chrome can't verify how it was made. This extension is completely safe to use, and your computer will probably not explode into a Big Fiery Ball Visible From Space. <sub>No guarantees, though.</sub>
 
-Thank you for reading this! I hope you enjoy this extension. If you need to contact me for any reason, my information is on my profile. Happy surfing! 
+Thank you for reading this! I hope you enjoy this extension. If you need to contact me for any reason, my contact information is on my profile. Happy surfing! 
