@@ -3,6 +3,8 @@ body {
     padding: 15px;
     background-color: #f7f7f7;
     color: #333;
+    width: 300px; /* set a wider width */
+    height: auto; /* height will adjust automatically & dynamically */
 }
 
 h1 {
