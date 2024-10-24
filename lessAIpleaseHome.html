@@ -1,27 +1,34 @@
 <html>
-    <title>Less AI Please!</title>
-
-    <style>
-        body { 
-            font-family: Arial, sans-serif;
-            padding: 10px;
-        }
-        label { 
-            display: flex;
-            align-items: center;
-            margin-top: 10px;
-        }
-        input[type="checkbox"] {
-            margin-left: 10px;
-        }
-    </style>
+    <head>
+        <title>Less AI Please!</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
 
     <body>
-        <h1>Less AI please!</h1>
-        <label>
-            <span>Enable AI filter</span>
-            <input type="checkbox" id="toggleFilter">
-        </label>
+        <h1>Less AI, Please!</h1>
+
+        <p>Filter out AI-generated images to improve the accuracy of your visual references. Whether you're a student, researcher, or artist, this tool will help you find more authentic content online.</p>
+
+        <div class="filter-section">
+            <label for="toggleFilter">
+                <span>Enable AI filter:</span>
+                <input type="checkbox" id="toggleFilter">
+            </label>
+            <p class="description">When enabled, the filter will block AI-generated images from appearing in your search results. You can turn this on or off at any time.</p>
+        </div>
+
+        <div class="info-section">
+            <h2>Why use this filter?</h2>
+            <ul>
+                <li>Find more accurate and authentic visual references</li>
+                <li>Filter out AI-generated content when accuracy is critical</li>
+                <li>Improve the quality of your research or projects</li>
+            </ul>
+        </div>
+
+        <footer>
+            <p>Developed with students, academics, and professionals in mind.</p>
+        </footer>
 
         <script src="popup.js"></script>
     </body>
