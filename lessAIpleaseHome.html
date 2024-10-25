@@ -4,17 +4,29 @@
         <link rel="stylesheet" href="styles.css">
     </head>
 
-    <body>
+    <header>
         <h1>Less AI, Please!</h1>
+    </header>
 
-        <p>Filter out AI-generated images to improve the accuracy of your visual references. Whether you're a student, researcher, or artist, this tool will help you find more authentic content online.</p>
+    <body>
+        <p>Filter out AI-generated images to improve the accuracy of your visual references. Whether you're a student, researcher, or artist, this tool will help you find more authentic visual content online.</p>
 
+        <!-- Toggle for general AI filter -->
         <div class="filter-section">
             <label for="toggleFilter">
                 <span>Enable AI filter:</span>
                 <input type="checkbox" id="toggleFilter">
             </label>
-            <p class="description">When enabled, the filter will block AI-generated images from appearing in your search results. You can turn this on or off at any time.</p>
+            <p class="description">When enabled, this filter will block AI-generated images from appearing in your search results. You can turn this on or off at any time.</p>
+        </div>
+
+        <!-- Toggle for post-2022 filter -->
+        <div class="filter-section">
+            <label for ="toggleDateFilter">
+                <span>Enable 2022 filter:</span>
+                <input type="checkbox" id="toggleDateFilter">
+            </label>
+            <p class="description">When enabled, this filter will block any result (not just images!) from after the year 2022. You can turn this on or off at any time.</p>
         </div>
 
         <div class="info-section">
@@ -22,8 +34,8 @@
             <ul>
                 <li>Find more accurate and authentic visual references</li>
                 <li>Filter out AI-generated content when accuracy is critical</li>
-                <li>Improve the quality of your research or projects</li>
             </ul>
+            <p>Please note that this extension can result in false positives or false negatives.</p>
         </div>
 
         <footer>

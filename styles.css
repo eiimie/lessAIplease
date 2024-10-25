@@ -3,8 +3,16 @@ body {
     padding: 15px;
     background-color: #f7f7f7;
     color: #333;
-    width: 300px; /* set a wider width */
+    width: 300px; /* set a wide width */
     height: auto; /* height will adjust automatically & dynamically */
+}
+
+header, footer { 
+    padding: 15px;
+    text-align: center;
+    width: 100%;
+    margin-left: -15px; /* Offsets body padding */
+    margin-right: -15px; /* Offsets body padding */
 }
 
 h1 {
